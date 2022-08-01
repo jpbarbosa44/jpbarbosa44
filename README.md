@@ -1,5 +1,5 @@
 # Hello there, welcome to my Github!👋
-### I'm a CS student and I'm currently working with tests 
+### I'm a CS student and I'm currently working with automation tests 
 <div>
 <a href="https://github.com/jpbarbosa44">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbarbosa44&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -15,7 +15,7 @@
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
  </div>     
   
-### Contatos:
+### Contacts:
 <div>
 <a href="https://www.linkedin.com/in/joão-pedro-barbosa-196924190" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
