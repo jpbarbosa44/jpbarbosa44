@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpbarbosa44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
- # technologies I'm learning
+ # technologies 
  <div>
  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
