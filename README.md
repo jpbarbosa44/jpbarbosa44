@@ -1,10 +1,5 @@
 # Hello there, welcome to my Github!👋
-### I'm a CS student and I'm currently working with automation tests at Medsystem S/V
-<div>
-<a href="https://github.com/jpbarbosa44">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbarbosa44&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpbarbosa44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+### I'm a CS student and I'm currently working as software engineer at Stone
 
  # technologies 
  <div>
